@@ -1,0 +1,6 @@
+{
+  "name": "Helios Sentinel",
+  "description": "Orbital bastion defense arcade game with tactical upgrades, windup telegraphs, and 60fps arena combat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
